@@ -1,0 +1,4 @@
+1 C++ 2 Bo.Liu Autumn SEU Unselected
+2 Calculus 6 Dan.He Spring SEU Selected
+3 English 2 Guohua.Fan Spring SEU Unselected
+      
